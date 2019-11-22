@@ -21,7 +21,6 @@ Pull requests 9
 Actions
 Projects 0
 Wiki
-Security
 Insights
 sfg-pet-clinic/.gitignore
 @springframeworkguru springframeworkguru Initial Project Add 2b4bcfe on 12 Jul 2018
@@ -183,3 +182,5 @@ release.properties
     Blog
     About
 
+/pet-clinic-web/target/
+/pet-clinic-data/target/
