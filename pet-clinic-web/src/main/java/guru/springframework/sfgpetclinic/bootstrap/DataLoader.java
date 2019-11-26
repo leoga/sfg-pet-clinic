@@ -33,7 +33,7 @@ public class DataLoader implements CommandLineRunner {
         Owner owner2 = new Owner();
         owner1.setId(2L);
         owner1.setFirstName("Fiona");
-        owner1.setLastName("Weston");
+        owner1.setLastName("Watson");
 
         ownerService.save(owner2);
 
